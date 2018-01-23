@@ -1,5 +1,6 @@
 # DCMotor Locker Opener/Closer
 
+## Contents
 1.[INTRODUCTION](#introduction)
 2.[MATERIALS](#materials)
 3.[STEPS](#steps)
@@ -9,8 +10,6 @@
 ### INTRODUCTION
 
 
-#System Diagram
-
 ![Fritzing Diagram](https://github.com/YohaanA/DCMotor/blob/master/dc%20motor%20sys%20Diagram.PNG)
 
 ### MATERIALS
@@ -18,9 +17,9 @@
 +Metal Rod ($5-$10)
 
 
-Time:</b> Approximately 1-2 hours if all preperations are made
+Time: Approximately 1-2 hours if all preperations are made
 
-### MATERIALS
+### STEPS
 (10 mins) Step 1:</b> Type in python program, available n the Presentation Slides (You can also do this step later. it's up to you)
 
 (20 mins)Step 2:</b> Use jumper cables and wires to connect raspberry pi to the transistor driver board and then the motor
